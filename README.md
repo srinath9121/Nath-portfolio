@@ -2,7 +2,7 @@
 
 A retro Windows 98-inspired interactive portfolio built with pure Vanilla HTML, CSS, and JavaScript.
 
-🌐 **Live Demo:** [srinath9121.github.io/Nath-portfolio](https://srinath9121.github.io/Nath-portfolio/)
+🌐 **Live Demo:** [srinath9121.github.io/Nath-portfolio]https://nath-portfolio-two.vercel.app/
 
 ---
 
